@@ -10,7 +10,7 @@ The Logo #MakeMePay is self generated using photoshop and the name "MAKEMEPAY" i
 
 # Output
 
-Click here to view Live: [https://shivam171.github.io/Payment-App-MakeMePay/](https://shivam171.github.io/Make-Me-Pay/)
+Click here to view Live: [https://shivam171.github.io/make-me-pay]
 
 <img src="MakeMePay_Final_DesignBy(Shivam171).png">
 
